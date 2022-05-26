@@ -3,7 +3,7 @@
 FrontEnd = HTML(静态,骨) + CSS(化妆,肉) + JS/TS(动态,动,原生JS很难写->JQuery/React/Angular/Vue/Svelte框架封装)
 
 This collection contains all essence to be an admitted FSA. Here we go!
-Sertfsdgdfgsdfg
+
 [![cyae's github stats](https://github-readme-stats.vercel.app/api?username=cyae&show_icons=true&theme=vue)](https://github.com/cyae)
 
 [![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=cyae&layout=compact&theme=vue&include_forks=true)](https://github.com/cyae)
@@ -45,9 +45,9 @@ Sertfsdgdfgsdfg
   
 - Learn Docker in 12 Minutes 🐳 [[link](https://www.youtube.com/watch?v=YFl2mCHdv24)]
 
-- Spring Boot Docker Kubernetes | Spring Boot Kubernetes Microservices | Docker Kubernetes tutorial [[link](https://www.youtube.com/watch?v=SzbeDqBSRkc)]
+- Spring Boot Docker Kubernetes \| Spring Boot Kubernetes Microservices \| Docker Kubernetes tutorial [[link](https://www.youtube.com/watch?v=SzbeDqBSRkc)]
 
-- Microservices using SpringBoot | Full Example [[link](https://www.youtube.com/watch?v=BnknNTN8icw)]
+- Microservices using SpringBoot \| Full Example [[link](https://www.youtube.com/watch?v=BnknNTN8icw)]
 
 - Vim in 100 Seconds [[link](https://www.youtube.com/watch?v=-txKSRn0qeA)]
 
